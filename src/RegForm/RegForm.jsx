@@ -31,4 +31,7 @@ export default function RegForm({setUser}) {
         </form>
     </div>
   )
+
+
+  
 }
