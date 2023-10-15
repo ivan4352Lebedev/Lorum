@@ -95,7 +95,7 @@ export default function Contacts() {
        )}
      </Formik>
 
-     {show && (<p>Данные успешно отправленны</p>)}
+     {show && (<p>The data has been sent successfully</p>)}
     </div>
 
        <footer>

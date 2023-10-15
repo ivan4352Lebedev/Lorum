@@ -27,7 +27,7 @@ export default function RegForm({setUser}) {
             <input className='reg'
             placeholder='userName'
             type="text" name='userName' />
-            <button className='reg-btn'>Регистрация</button>
+            <button className='reg-btn'>Registration</button>
         </form>
     </div>
   )
